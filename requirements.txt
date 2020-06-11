@@ -1,0 +1,2 @@
+streamlit
+opencv-contrib-python-headless
